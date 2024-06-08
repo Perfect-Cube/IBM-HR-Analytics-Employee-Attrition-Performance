@@ -1,6 +1,5 @@
-# Author: Aakarshit Srivastava
+# Author: Aakarshit Srivastava, Ayush Verma , Bhaskar Banerjee
 # Team: Perfect Cube
-# Contact: Shubh26002@gmail.com
 
 # Import necessary libraries
 import pandas as pd
